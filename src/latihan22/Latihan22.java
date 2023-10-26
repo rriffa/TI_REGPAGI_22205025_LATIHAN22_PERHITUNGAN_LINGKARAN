@@ -10,6 +10,7 @@ import java.util.Scanner;
  Nama :Ma'rifatu Khirzah
  NIM :22205025
  Prodi :Teknik Informatika
+ Deskripsi :Menampilkan program perhitungan lingkaran yang iputannya berasal dari user
  */
 public class Latihan22 {
 
